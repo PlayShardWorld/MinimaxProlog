@@ -1,0 +1,20 @@
+/*****************************************************************************
+
+		Copyright (c) Our Company
+
+ Project:  COURSE
+ FileName: course.PRE
+ Purpose: Predicate definitions for COURSE.PRO
+ Written by: Visual Prolog 5.2
+ Comments:
+******************************************************************************/
+
+%BEGIN_DECL, System generated global predicates
+GLOBAL PREDICATES
+
+  project_ShowHelpContext(INTEGER Index) - (i)
+  dlg_about_dialog_Create(WINDOW Parent) - (i)
+  tb_project_toolbar_Create(WINDOW Parent) - (i)
+  tb_help_line_Create(WINDOW Parent) - (i)
+  dlg_mainwindow_Create(WINDOW Parent) - (i)
+%END_DECL
